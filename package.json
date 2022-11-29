@@ -8,6 +8,6 @@
     "aws-sdk": "2.910.0",
     "lodash": "4.17.21",
     "body-parser": "1.13.3",
-    "express": "3.0.0"
+    "express": "3.21.2"
   }
 }
